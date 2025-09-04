@@ -6,16 +6,16 @@ export const SHORT_DESCRIPTION = `the most memeable cat on the internet`;
 export const MAIN_IMAGE = "/blacky.jpeg";
 
 // CA
-export const CONTRACT_ADDRESS = "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp";
+export const CONTRACT_ADDRESS = "COMMING";
 export const CONTRACT_ADDRESS_HREF = `https://raydium.io/swap/?outputCurrency=${CONTRACT_ADDRESS}`;
 
 // Social
-export const TWITTER = "https://twitter.com/michionsolana";
-export const TELEGRAM = "https://t.me/michiportal";
+export const TWITTER = "https://twitter.com/";
+export const TELEGRAM = "https://t.me/";
 export const DEXSCREENER =
-  "https://dexscreener.com/solana/gh8ers4yzkr3ukdvgvu8cqjfgzu4cu62mteg9bcj7ug6";
+  "https://dexscreener.com/solana/";
 export const DEXTOOLS =
-  "https://www.dextools.io/app/en/solana/pair-explorer/GH8Ers4yzKR3UKDvgVu8cqJfGzU4cU62mTeg9bcJ7ug6?t=1712831603248";
+  "https://www.dextools.io/app/en/solana/pair-explorer/";
 
 // MEME Section
 export const MEME_HEADER = `${NAME} memes`;
